@@ -50,8 +50,7 @@
               "RelativeToolTip": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAtwBAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T15:25:40.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T15:25:40.613Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-02-26T15:06:57.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T15:06:57.468Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "SistemaVenta.BLL\\implementacion\\VentaService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAD4vxgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T14:38:44.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T14:38:44.404Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "SistemaVenta.BLL\\implementacion\\ProductoService.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T14:38:33.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T14:38:33.719Z"
             },
             {
               "$type": "Document",
@@ -100,7 +96,7 @@
               "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
               "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
               "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAIAwwDwAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T14:38:09.81Z",
               "EditorCaption": ""
@@ -115,8 +111,7 @@
               "RelativeToolTip": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Nueva_Venta.js",
               "ViewState": "AQIAAN4AAAAAAAAAAAAIwOwAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-02-26T14:37:38.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T14:37:38.217Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Venta\\NuevaVenta.cshtml",
               "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T14:37:29.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T14:37:29.784Z"
             }
           ]
         }

@@ -59,7 +59,7 @@ namespace SistemaVenta.AplicacionWeb.Controllers
 
             return StatusCode(StatusCodes.Status200OK, vmProductsList);
         }
-
+        
         [HttpPost]
         public async Task<IActionResult> RegistrarVenta([FromBody]VMVenta model)
         {
