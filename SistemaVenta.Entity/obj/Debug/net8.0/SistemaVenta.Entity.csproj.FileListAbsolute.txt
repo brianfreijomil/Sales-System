@@ -1,0 +1,14 @@
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.deps.json
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\refint\SistemaVenta.Entity.dll
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Escritorio\Net-curso\proyectos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\ref\SistemaVenta.Entity.dll

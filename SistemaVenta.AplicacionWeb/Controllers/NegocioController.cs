@@ -1,0 +1,91 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using AutoMapper;
+using Newtonsoft.Json;
+using SistemaVenta.AplicacionWeb.Models.ViewModels;
+using SistemaVenta.AplicacionWeb.Utilidades.Response;
+using SistemaVenta.BLL.interfaces;
+using SistemaVenta.Entity;
+using Microsoft.AspNetCore.Authorization;
+using SistemaVenta.AplicacionWeb.Utilidades.CustomFilter;
+
+namespace SistemaVenta.AplicacionWeb.Controllers
+{
+    [Authorize]
+    public class NegocioController : Controller
+    {
+
+        private readonly IMapper _mapper;
+        private readonly INegocioService _negocioService;
+
+        public NegocioController(IMapper mapper, INegocioService negocioService)
+        {
+            _mapper = mapper;
+            _negocioService = negocioService;
+        }
+
+        [ClaimRequirement(controlador: "Negocio", accion: "Index")]
+        public IActionResult Index()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Obtener()
+        {
+            GenericResponse<VMNegocio> gResponse = new GenericResponse<VMNegocio>();
+
+            try
+            {
+                VMNegocio vmNegocio = _mapper.Map<VMNegocio>(await _negocioService.Get());
+
+                gResponse.Estado = true;
+                gResponse.Objeto = vmNegocio;
+
+            }
+            catch (Exception ex)
+            {
+                gResponse.Estado = false;
+                gResponse.Mensaje = ex.Message;
+            }
+
+            return StatusCode(StatusCodes.Status200OK, gResponse);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> GuardarCambios([FromForm]IFormFile logo, [FromForm]string modelo)
+        {
+            GenericResponse<VMNegocio> gResponse = new GenericResponse<VMNegocio>();
+
+            try
+            {
+                VMNegocio vmNegocio = JsonConvert.DeserializeObject<VMNegocio>(modelo);
+
+                string nombreLogo = "";
+                Stream logoStream = null;
+
+                if(logo != null)
+                {
+                    string nombreEnCodigo = Guid.NewGuid().ToString("N");
+                    string extension = Path.GetExtension(logo.FileName);
+                    nombreLogo = string.Concat(nombreEnCodigo,extension);
+                    logoStream = logo.OpenReadStream();
+                }
+
+                Negocio negocioEditado = await _negocioService.SaveChanges(_mapper.Map<Negocio>(vmNegocio), logoStream, nombreLogo);
+
+                vmNegocio = _mapper.Map<VMNegocio>(negocioEditado);
+
+                gResponse.Estado = true;
+                gResponse.Objeto = vmNegocio;
+
+            }
+            catch (Exception ex)
+            {
+                gResponse.Estado = false;
+                gResponse.Mensaje = ex.Message;
+            }
+
+            return StatusCode(StatusCodes.Status200OK, gResponse);
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F566614A-9DA7-4BE8-B49E-E0F789EF5541}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\brian\\onedrive\\escritorio\\net-curso\\proyectos\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566614A-9DA7-4BE8-B49E-E0F789EF5541}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6B888-6022-4AA4-A468-67C8C9D69538}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\brian\\onedrive\\escritorio\\net-curso\\proyectos\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6B888-6022-4AA4-A468-67C8C9D69538}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81BAA9D-758C-4A04-B048-B83F18530C03}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\brian\\onedrive\\escritorio\\net-curso\\proyectos\\solucionsistemaventa\\sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81BAA9D-758C-4A04-B048-B83F18530C03}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6B888-6022-4AA4-A468-67C8C9D69538}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\brian\\onedrive\\escritorio\\net-curso\\proyectos\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6B888-6022-4AA4-A468-67C8C9D69538}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566614A-9DA7-4BE8-B49E-E0F789EF5541}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\brian\\onedrive\\escritorio\\net-curso\\proyectos\\solucionsistemaventa\\sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\nueva_venta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F566614A-9DA7-4BE8-B49E-E0F789EF5541}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\nueva_venta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566614A-9DA7-4BE8-B49E-E0F789EF5541}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\brian\\onedrive\\escritorio\\net-curso\\proyectos\\solucionsistemaventa\\sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\historial_venta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F566614A-9DA7-4BE8-B49E-E0F789EF5541}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\historial_venta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566614A-9DA7-4BE8-B49E-E0F789EF5541}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\brian\\onedrive\\escritorio\\net-curso\\proyectos\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\venta\\nuevaventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F566614A-9DA7-4BE8-B49E-E0F789EF5541}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\venta\\nuevaventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbventaContext.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAtwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:25:40.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Historial_Venta.js",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-26T15:06:57.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.BLL\\implementacion\\VentaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\implementacion\\VentaService.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.BLL\\implementacion\\VentaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\implementacion\\VentaService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4vxgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:38:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.BLL\\implementacion\\ProductoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\implementacion\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.BLL\\implementacion\\ProductoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\implementacion\\ProductoService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:38:33.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAIAwwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:38:09.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nueva_Venta.js",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Nueva_Venta.js",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Nueva_Venta.js",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Nueva_Venta.js",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Nueva_Venta.js",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAIwOwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-26T14:37:38.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NuevaVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Venta\\NuevaVenta.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Venta\\NuevaVenta.cshtml",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Net-curso\\proyectos\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Venta\\NuevaVenta.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Venta\\NuevaVenta.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T14:37:29.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
